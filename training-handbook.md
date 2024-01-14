@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Training Handbook
-parent: Handbooks
-nav_bar: 2
+nav_order: 2
+description: "Freshify Training Handbook"
 ---
 
 # Training Handbook
