@@ -20,7 +20,7 @@ callouts:
     title: Warning
     color: red
 
-favicon_ico: "/assets/images/Freshify Support.png"
+favicon_ico: "/assets/images/favicon.ico"
 
 
 aux_links:
