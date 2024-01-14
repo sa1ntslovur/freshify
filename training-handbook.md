@@ -16,4 +16,5 @@ permalink: /training-handbook
 > All other text serves as supplementary information.
 
 ### Training Information
-{ .text-yellow-100 }
+{: .text-yellow-100 }
+
