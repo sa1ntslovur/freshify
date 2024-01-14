@@ -2,6 +2,7 @@
 layout: default
 title: Training Handbook
 parent: Handbooks
+nav_bar: 2
 ---
 
 # Training Handbook
