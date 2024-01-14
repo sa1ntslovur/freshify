@@ -3,6 +3,7 @@ layout: default
 title: Training Handbook
 nav_order: 2
 description: "Freshify Training Handbook"
+permalink: /training-handbook
 ---
 
 # Training Handbook
