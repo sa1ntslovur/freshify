@@ -26,7 +26,8 @@ permalink: /training-handbook
 * Beginning at **:55**, trainees are expected to maintain silence and refrain from engaging in any disruptive or conversational activities.
 * Any instances of trainees engaging in spamming activities will result in their immediate removal from the server.
 
-{: .warning } Trainers and the Host are required to manually assign their teams by using the command **:team me Host** or **:team me Trainer**. The overhead display will promptly update to reflect the new team name. It is strictly prohibited to form a team with anyone other than a designated Host or Trainer. Additionally, the Host is authorized to assign a Trainer to the Trainer team.
+{: .warning } 
+> Trainers and the Host are required to manually assign their teams by using the command **:team me Host** or **:team me Trainer**. The overhead display will promptly update to reflect the new team name. It is strictly prohibited to form a team with anyone other than a designated Host or Trainer. Additionally, the Host is authorized to assign a Trainer to the Trainer team.
 
 
 
