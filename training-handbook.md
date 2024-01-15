@@ -29,7 +29,17 @@ permalink: /training-handbook
 {: .warning } 
 > Trainers and the Host are required to manually assign their teams by using the command **:team me Host** or **:team me Trainer**. The overhead display will promptly update to reflect the new team name. It is strictly prohibited to form a team with anyone other than a designated Host or Trainer. Additionally, the Host is authorized to assign a Trainer to the Trainer team.
 
+## Training Information: Starting
+{: .text-yellow-300 }
 
+When the training commences, the **Host** should **lock** the server to prevent any additional **Trainees** from joining by typing **!slock** in the chat bar. It's important to note that this command will NOT work in the command bar. The **!slock** command, however, does not need to be hidden.
+
+The **Host** is required to say the prompts below, utilizing the **:sm** command to announce them. For command bar functionality, the prefix will be removed. It is crucial to send the next announcement promptly **after a announcement closes**.
+
+
+```Welcome to this Freshify Training Session! I'm (username), your Host for today's session. It's a pleasure to meet all of you. If this is your first time here, a warm welcome to you, and if you've been here before, welcome back!```
+
+Replace **(username)** with your Roblox username.
 
 
 
