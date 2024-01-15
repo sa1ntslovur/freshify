@@ -12,7 +12,7 @@ permalink: /training-handbook
 > HANDBOOK INFORMATION
 > 
 > * This guide is designed for **Store Supervisors and above** to aid them in conducting training sessions for trainees.
-> Within the code blocks, you'll find the specific content to be communicated to trainees during the training sessions.
+> Within the *italic text*, you'll find the specific content to be communicated to trainees during the training sessions.
 > All other text serves as supplementary information.
 
 ## Training Information & Expectations
@@ -36,10 +36,107 @@ When the training commences, the **Host** should **lock** the server to prevent 
 
 The **Host** is required to say the prompts below, utilizing the **:sm** command to announce them. For command bar functionality, the prefix will be removed. It is crucial to send the next announcement promptly **after a announcement closes**.
 
+*Welcome to this Freshify Training Session! I'm (username), your Host for today's session. It's a pleasure to meet all of you. If this is your first time here, a warm welcome to you, and if you've been here before, welcome back!*
 
-```Welcome to this Freshify Training Session! I'm (username), your Host for today's session. It's a pleasure to meet all of you. If this is your first time here, a warm welcome to you, and if you've been here before, welcome back!```
+Replace **(username)** with your Roblox username, remove the ().
 
-Replace **(username)** with your Roblox username.
+*The procedures and information for this training will now be presented. Please refrain from talking or distracting others. Engaging in conversation or causing distractions may lead to your removal from today's training session.*
+
+**During the training procedures, Trainers can now proceed to their assigned group for training trainees.** The Host may inform the Trainers by using the command **:pm %Trainer message**. It is imperative that this command remains hidden.
+
+Next, execute the **:traininginfo** command to automatically provide the training procedures and relevant information.
+
+Upon the conclusion of the training information and procedure messages, please convey the following and commence teleporting Trainees to their designated groups.
+
+*sm You will now be teleported into your assigned group, so please be patient. Trainees are NOT permitted to wander around once teleported.*
+
+## Scripts: Starting
+{: .text-yellow-300 }
+
+*Hello! Welcome to this Freshify Training Session. I'm your Trainer for today, and my name is username. If you have any questions, please type PTS in the chat. Otherwise, jump to indicate that you are ready to proceed.*
+
+Replace **username** with your Roblox username.
+
+*As mentioned in the introduction, you will be required to take a quiz at the end of this session. Feel free to use the !notepad command to take notes, as they will be helpful when taking the quiz.*
+
+*Before going AFK, please notify me. Failure to do so while going AFK will result in removal from the server. When going AFK, you have a maximum of 2 minutes, and you may go AFK twice during this training.*
+
+*If you disconnect during this session, you have up to 90 seconds to rejoin. If you don't rejoin within that time, you must attend another training session.*
+
+*In the event that I disconnect, please wait for me and do NOT wander around. If I don't rejoin, someone will take over for me. I appreciate your patience.*
+
+*Any questions? If so, please ask them now.*
+
+## Scripts: Voiding Test
+{: .text-yellow-300 }
+
+*Now, please choose a register.*
+
+*We are now starting this training with the Voiding test. Please show your undivided attention as it will be beneficial for you in the end.*
+
+*Freshify has self-checkout systems that recreate a real-life shopping experience. These checkouts act similarly to real-life checkout systems.*
+
+*During this test, you must demonstrate to me how to void items.*
+
+*To void a single item, press Store Login or scan your barcode, press Cancel Items, and press the button right beside the item that you want to remove.*
+
+*Voiding random transactions without reason is prohibited and will lead to a warning and/or demotion.*
+
+*To void a transaction, press Store Login or scan your barcode, press Void Transaction, and press Yes.*
+
+*I will now scan an item on your register. Please be patient as I do so. Do NOT do anything yet unless instructed by me.*
+
+*I scanned the item on the registers, now it is your turn to show me how to void a SINGLE ITEM. For any questions, state PTS. You will not be counted against for not knowing.*
+
+*I will now scan an item on your register. Please be patient as I do so. Do NOT do anything yet unless instructed by me.*
+
+*I scanned the item on the registers, now it is your turn to show me how to void a TRANSACTION. For any questions, state PTS. You will not be counted against for not knowing.*
+
+*Congratulations! We will now be doing the Item Approval test.*
+
+## Scripts: Item Approval Test
+{: .text-yellow-300 }
+
+*We are now going to be doing the Item Approval test. Please show your undivided attention.*
+
+*Some items at the store require staff approval. That means you must scan your barcode and press Yes or No on the screen.*
+
+*To accept a transaction, ask the customer for identification by simply saying, 'Can I see some identification?' If they provide it, press Store Login, scan your barcode, and press Yes.*
+
+*To deny a transaction, press Store Login, scan your barcode, and press No.*
+
+*I will now scan an item on your register. Please be patient as I do so. Do NOT do anything yet unless instructed by me.*
+
+*I scanned the item on the registers, now it is your turn to show me how to ACCEPT a transaction. For any questions, state PTS. You will not be counted against for not knowing.*
+
+*I scanned the item on the registers, now it is your turn to show me how to DENY a transaction. For any questions, state PTS. You will not be counted against for not knowing.*
+
+*Congratulations! We will now be doing the Quiz.*
+
+## Quiz
+{: .text-yellow-300 }
+
+*I will provide you with 3 questions. To pass this training session, you must answer at least two out of three correctly. Feel free to use the notes you took to assist you.*
+
+You can now send the questions to the trainees using the **:pm** command. Ensure the questions are clear and not overly difficult. Some examples include:
+
+**1. How do you deny a transaction?**
+**2. How do you approve a transaction?**
+**3. As an LR, are you required to use proper grammar at the store or training center?**
+
+The **:pm** command must remain hidden.
+
+**IF THEY PASS:**
+*Congratulations on successfully completing today's training session! Please follow me to the ranking line.*
+
+**IF THEY FAIL:**
+*Unfortuantely, you did not pass the training session. Don't worry, as we conduct other training sessions as well!*
+
+The training session can now end and the server can be shutdown by saying **:shutdown**.
+
+
+
+
 
 
 
