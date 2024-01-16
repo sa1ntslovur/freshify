@@ -21,6 +21,11 @@ permalink: /training-guide
 1. TOC
 {:toc}
 
+# Role Information
+{: .text-blue-100 }
+
+The following section provides details about the various roles in a Freshify training.
+
 | Role        | Description          | Ranks Allowed | Quantity |
 |:------------|:--------------------|:--------------|:---------|
 | Host        | The Host bears complete responsibility for the entire training session. Their role commences at :40, as they join and unlock the server by :45. Possessing full authority over the training session, the Host exercises the ultimate decision-making power, except when overruled by an SHR. Their duties encompass presenting the introduction to the trainees, ensuring the trainers can effectively instruct the trainees, overseeing the session, and managing additional responsibilities. | Store Manager+  | 1 allowed **per** session | 
