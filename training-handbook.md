@@ -120,9 +120,10 @@ Replace **username** with your Roblox username.
 
 You can now send the questions to the trainees using the **:pm** command. Ensure the questions are clear and not overly difficult. Some examples include:
 
-**1. How do you deny a transaction?**
-**2. How do you approve a transaction?**
-**3. As an LR, are you required to use proper grammar at the store or training center?**
+1. How do you approve a transaction?
+1. How do you approve a transaction?
+1. 3. As an LR, are you required to use proper grammar at the store or training center?
+
 
 The **:pm** command must remain hidden.
 
