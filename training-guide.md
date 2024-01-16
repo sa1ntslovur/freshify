@@ -84,7 +84,7 @@ To hide commands, simply add /e before typing your command in the chat bar, or u
 ## Host Script: Starting
 {: .text-blue-100 }
 
-When the training starts, the **Host** should **lock** the server to prevent any more **Trainees** from joining. This can be done by typing **:slock** in the command bar or using /e.
+When the training starts, the **Host** should **lock** the server to prevent any more **Trainees** from joining. This can be done by typing **:slock** in the command bar or using /e in front of the command in the chat bar.
 
 The **Host** must announce the prompts below using the **:sm** command. If using the command bar, remove the prefix. It's crucial to promptly send the next announcement after one closes. When using the chat, make sure to use /e before the command.
 
