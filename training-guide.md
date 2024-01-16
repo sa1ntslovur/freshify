@@ -50,7 +50,7 @@ The following section provides details about the various roles in a Freshify tra
 ## Training Staff: Hiding Commands
 {: .text-yellow-300 }
 
-To hide commands, simply add /e before typing your command in the chat bar, or use the command bar by pressing ; on your keyboard. For instance:
+To hide commands, simply add /e before typing your command in the chat bar, or use the command bar by pressing ' on your keyboard. For instance:
 > */e :m Hello!*
 
 ## Host Script: Starting
