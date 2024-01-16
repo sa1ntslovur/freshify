@@ -7,6 +7,7 @@ permalink: /training-handbook
 ---
 
 # Training Handbook
+{: .no_toc }
 
 {: .note-title }
 > HANDBOOK INFORMATION
@@ -14,6 +15,12 @@ permalink: /training-handbook
 > * This guide is designed for **Store Supervisors and above** to aid them in conducting training sessions for trainees.
 > Within the *italic text*, you'll find the specific content to be communicated to trainees during the training sessions.
 > All other text serves as supplementary information.
+
+#### Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ## Training Information & Expectations
 {: .text-yellow-300 }
