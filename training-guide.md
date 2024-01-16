@@ -118,7 +118,7 @@ Replace **username** with your Roblox username.
 
 *Congratulations! We will now be doing the Item Approval test.*
 
-## Trainer Script: Item Approval Test
+## Trainer Script: Item Approval
 {: .text-red-300 }
 
 *Now, we'll proceed with the Item Approval test. Please pay full attention.*
