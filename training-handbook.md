@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Training Handbook
-nav_order: 2
+nav_order: 3
 description: "Freshify Training Handbook"
 permalink: /training-handbook
 ---
