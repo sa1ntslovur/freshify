@@ -21,7 +21,7 @@ permalink: /training-guide
 1. TOC
 {:toc}
 
-# Role Information
+## Role Information
 {: .text-blue-100 }
 
 The following section provides details about the various roles in a Freshify training.
