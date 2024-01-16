@@ -48,7 +48,7 @@ The following section provides details about the various roles in a Freshify tra
 | Trainee          | Trainees and Low Ranks are accountable for attentively listening to trainers, adhering to Freshify regulations, and actively participating in the training session. | Awaiting Training, Team Member, Junior Team Member, and Senior Team Member  | No maximum 
 
 
-## Host Scripts: Starting
+## Host Script: Starting
 {: .text-blue-100 }
 
 When the training starts, the **Host** should **lock** the server to prevent any more **Trainees** from joining. This can be done by typing **:slock** in the command bar or using /e.
