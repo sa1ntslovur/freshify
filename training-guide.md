@@ -47,6 +47,11 @@ The following section provides details about the various roles in a Freshify tra
 | Spectator    | The Spectator will oversee the training session to ensure its smooth and efficient operation.  | Store Moderator+  | No maximum |
 | Trainee          | Trainees and Low Ranks are accountable for attentively listening to trainers, adhering to Freshify regulations, and actively participating in the training session. | Awaiting Training, Team Member, Junior Team Member, and Senior Team Member  | No maximum 
 
+## Training Staff: Hiding Commands
+{: .text-yellow-300 }
+
+To hide commands, simply add /e before typing your command in the chat bar, or use the command bar by pressing ; on your keyboard. For instance:
+> */e :m Hello!*
 
 ## Host Script: Starting
 {: .text-blue-100 }
