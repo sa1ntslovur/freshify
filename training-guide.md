@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Training Handbook
+title: Training Guide
 nav_order: 3
-description: "Freshify Training Handbook"
-permalink: /training-handbook
+description: "Freshify Training Guide"
+permalink: /training-guide
 ---
 
-# Training Handbook
+# Training Guide
 {: .no_toc }
 
 {: .note-title }
