@@ -47,11 +47,37 @@ The following section provides details about the various roles in a Freshify tra
 | Spectator    | The Spectator will oversee the training session to ensure its smooth and efficient operation.  | Store Moderator+  | No maximum |
 | Trainee          | Trainees and Low Ranks are accountable for attentively listening to trainers, adhering to Freshify regulations, and actively participating in the training session. | Awaiting Training, Team Member, Junior Team Member, and Senior Team Member  | No maximum 
 
-## Training Staff: Hiding Commands
-{: .text-yellow-300 }
+## Admin: Hiding Commands
+{: .text-green-200 }
 
 To hide commands, simply add /e before typing your command in the chat bar, or use the command bar by pressing ' on your keyboard. For instance:
 > */e :m Hello!*
+
+## Admin: Acceptable Usage
+{: .text-green-200 }
+
+The following section provides a list of approved commands for the training session. If a command isn't on the list, it's not allowed, and using an unauthorized command may lead to consequences.
+
+| Command        | Command Information          | Rank Required |
+|:------------|:--------------------|:--------------|
+| :welcome        | Displays the welcome message. | Store Manager+ |
+| :traininginfo | Displays the training information and procedures.  | Store Manager+  | 
+| !notepad    | Opens up a notepad.  | No rank required  |
+| :pban    | Permanently bans a player from the Training Center. | Store Moderator+ |
+| :unpban  | Un-permanently bans a player from the Training Center. | Store Moderator+ |
+| :kick    | Removes someone from the current server. | Store Supervisor+ |
+| :ref/:refresh | Refreshs a users avatar. | Store Supervisor+ |
+| :unadmin | Removes someones admin. | Store Moderator+ |
+| :team | Assigns someone to a team. | Store Manager+ |
+| :sm | Displays an announcement, but as the title: Freshify. | Store Manager+ |
+| :m | Displays an announcement, but as the persons username. | Store Manager+ |
+| :bring/:tp | Teleports someone to another person. | Store Manager+ |
+| :admins/:gameadmins | Displays admins. | Store Supervisor+ |
+| :ff/:unff | Force field trainees awaiting to be ranked. | Store Manager+ |
+| !reset | Reset your avatar. | No rank required |
+| :shutdown | Shutdown the current server. | Store Manager+/Host |
+| :ban/:unban | Server ban someone from the Training Center. | Store Manager+ |
+
 
 ## Host Script: Starting
 {: .text-blue-100 }
