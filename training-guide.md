@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Training Guide
-nav_order: 3
+nav_order: 4
 description: "Freshify Training Guide"
 permalink: /training-guide
 ---
@@ -9,12 +9,11 @@ permalink: /training-guide
 # Training Guide
 {: .no_toc }
 
-{: .note-title }
-> HANDBOOK INFORMATION
-> 
-> * This guide is designed for **Store Supervisors and above** to aid them in conducting training sessions for trainees.
-> Within the *italic text*, you'll find the specific content to be communicated to trainees during the training sessions.
-> All other text serves as supplementary information.
+
+* This guide is designed for **Store Supervisors and above** to aid them in conducting training sessions for trainees.
+* Within the *italic text*, you'll find the specific content to be communicated to trainees during the training sessions.
+* All other text is information for trainers and other training staff.
+
 
 #### Table of Contents
 {: .no_toc .text-delta }
