@@ -9,6 +9,9 @@ permalink: /training-guide
 # Training Guide
 {: .no_toc }
 
+{: .warning } 
+> January 18, 2024: Iur game is currently not working because of issues with our hosting provider for our registers. There was a mistake at Freshify Training Center, and the game was accidentally played on Roblox Studio. As a result, we're moving to a new game. Trainings during this time are cancelled. We'll continue to provide updates.
+
 
 * This guide is designed for **Store Supervisors and above** to aid them in conducting training sessions for trainees.
 * Within the *italic text*, you'll find the specific content to be communicated to trainees during the training sessions.
