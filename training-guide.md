@@ -141,7 +141,7 @@ Visit each trainee’s register one by one and order a simple drink item. If the
 
 *Well done, everyone! Let’s go to the Checkout Area next. Please follow me.*
 
-## Trainer: Voiding Transactions and Items Script
+## Trainer: Voiding Transactions & Items Script
 {: .text-red-300 }
 
 *We're kicking off the training with the Voiding test. Please choose a register. Pay full attention, as it will be beneficial for you in the end.*
@@ -190,25 +190,21 @@ Visit each trainee’s register one by one and order a simple drink item. If the
 ## Trainer: Quiz
 {: .text-red-300 }
 
-*I will provide you with 3 questions. To pass this training session, you must answer at least two out of three correctly. Feel free to use the notes you took to assist you.*
+*I will ask you 3 questions. To pass this training session, you must get at least two out of three right. You can use the notes you wrote to help you.*
 
-Now, you can use the **:pm** command to send questions to the trainees. Make sure the questions are clear and not overly difficult. Here are some examples:
+Now, you can use the `:pm` command to send questions to the trainees. Make sure the questions are clear and not too hard. Here are some examples:
 
 1. How do you approve a transaction?
-1. How do you deny a transaction?
-1. As an LR, are you required to use proper grammar at the store or training center?
+2. How do you deny a transaction?
+3. As an LR, do you have to use proper grammar at the store or training center?
 
+**Do not show the `:pm` command to anyone.**
 
-The **:pm** command must stay hidden.
+**IF THEY PASS:** You have successfully completed today’s training session! Please follow me to the ranking line.
 
-**IF THEY PASS:**
-*Congratulations on successfully completing today's training session! Please follow me to the ranking line.*
+**IF THEY FAIL:** You did not pass the training session. Don’t worry, you can try again in another training session.
 
-**IF THEY FAIL:**
-*Unfortunately, you did not pass the training session. No worries, as we have other training sessions available!*
-
-The training session can now conclude, and you can shut down the server by saying **:shutdown**.
-
+The training session is over, and you can shut down the server by saying `:shutdown`.
 
 
 
