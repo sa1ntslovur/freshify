@@ -9,37 +9,37 @@ permalink: /training-guide
 # Training Guide
 {: .no_toc }
 
-{: .warning } 
-> This guide is currently going under revamp for our new training center. Please be patient while we update this.
-
-
-* This guide is designed for **Store Supervisors and above** to aid them in conducting training sessions for trainees.
-* Within the *italic text*, you'll find the specific content to be communicated to trainees during the training sessions.
-* All other text is information for trainers and other training staff.
-
-
 #### Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
 {:toc}
 
-## Training Information & Expectations
+## Information
 {: .text-yellow-300 }
 
-* All staff participating in the training should stand behind the assigned **Host** line. Trainees are expected to stand on the marked **Red** lines.
-* PTS requests will be answered until :55. After that time, trainees should direct any questions to their assigned trainer if their PTS requests are not accepted.
-* Trainees are strongly advised not to enter the Self Checkout room independently. Only Trainers have the authority to teleport trainees to the Self Checkout room when necessary.
-* Training staff MUST hide their commands by using the command bar or typing /e in front of commands followed by pressing enter, and then sending commands there. It's important to note that commands in the command bar do not require a prefix.
-* Trainees must be on the marked **Red** lines and comply with all specified regulations.
-* Starting at :55, trainees should maintain silence and avoid disturbing other trainees or talking.
-* Any instances of trainees spamming the chat or not listening, they will be removed from the server.
+* This guide is for **Store Supervisors and above** who want to conduct training sessions for trainees.
+* The *italic* text shows the specific content that you should say to the trainees during the training sessions.
+* The **rest of the text is information** for you and other training staff.
 
-{: .warning } 
-> Hosts and Trainers must manually assign their teams using the command **:team me Host** or **:team me Trainer**. The display will quickly show the updated team name. Teaming someone other than the assigned Host or Trainer is not allowed. The Host can also assign a Trainer to the Trainer team.
+## Information: Training Expectations & Behavior
+{: .text-yellow-300 }
+
+* All staff participating in the training should stand behind the assigned Host line. Trainees are expected to stand on the marked Red lines.
+* PTS requests will be answered until :55. After that time, trainees should direct any questions to their assigned trainer.
+* Trainees are strongly advised not to enter the Training Area independently. Only Trainers have the authority to transfer trainees to the Self Checkout room when necessary.
+* Training staff must hide their commands by using the command bar or typing /e in front of commands followed by pressing enter, and then sending commands there. It’s important to note that commands in the command bar do not require a prefix.
+* Trainees are required to be on the marked Red lines and comply with all specified regulations.
+* Starting at :55, trainees should maintain silence and avoid interrupting other trainees or talking.
+* Any instances of trainees spamming or not listening, they will be removed from the server.
+
+## Information: Hiding Commands
+{: .text-yellow-300 }
+
+Acceptable admin usage and hiding command information has been moved to the [Admin Guide](https://support.freshifynet.com/admin-guide).
 
 ## Role Information
-{: .text-blue-100 }
+{: .text-green-200 }
 
 The following section provides details about the various roles in a Freshify training.
 
@@ -50,84 +50,101 @@ The following section provides details about the various roles in a Freshify tra
 | Spectator    | The Spectator will oversee the training session to ensure its smooth and efficient operation.  | Store Moderator+  | No maximum |
 | Trainee          | Trainees and Low Ranks are accountable for attentively listening to trainers, adhering to Freshify regulations, and actively participating in the training session. | Awaiting Training, Team Member, Junior Team Member, and Senior Team Member  | No maximum 
 
-
-## Admin: Acceptable Usage
+## Role Information: Additional Information
 {: .text-green-200 }
 
-The following section provides a list of approved commands for the training session. If a command isn't on the list, it's not allowed, and using an unauthorized command may lead to consequences.
+The Host may ask for additional staff if needed. Please show respect and do not disturb any SHR who is observing the session and do not interrupt them unless they are available.
 
-| Command        | Command Information          | Rank Required |
-|:------------|:--------------------|:--------------|
-| :welcome        | Displays the welcome message. | Store Manager+ |
-| :traininginfo | Displays the training information and procedures.  | Store Manager+  | 
-| !notepad    | Opens up a notepad.  | No rank required  |
-| :pban    | Permanently bans a player from the Training Center. | Store Moderator+ |
-| :unpban  | Un-permanently bans a player from the Training Center. | Store Moderator+ |
-| :kick    | Removes someone from the current server. | Store Supervisor+ |
-| :ref/:refresh | Refreshs a users avatar. | Store Supervisor+ |
-| :unadmin | Removes someones admin. | Store Moderator+ |
-| :team | Assigns someone to a team. | Store Manager+ |
-| :sm | Displays an announcement, but as the title: Freshify. | Store Manager+ |
-| :m | Displays an announcement, but as the persons username. | Store Manager+ |
-| :bring/:tp | Teleports someone to another person. | Store Manager+ |
-| :admins/:gameadmins | Displays admins. | Store Supervisor+ |
-| :ff/:unff | Force field trainees awaiting to be ranked. | Store Manager+ |
-| !reset | Reset your avatar. | No rank required |
-| :shutdown | Shutdown the current server. | Store Manager+/Host |
-| :ban/:unban | Server ban someone from the Training Center. | Store Manager+ |
-
-
-## Admin: Hiding Commands
-{: .text-green-200 }
-
-To hide commands, simply add /e before typing your command in the chat bar, or use the command bar by pressing ' on your keyboard. For instance:
-> */e :m Hello!*
-
-
-## Host Script: Starting
+## Host & Trainer: Joining
 {: .text-blue-100 }
 
-When the training starts, the **Host** should **lock** the server to prevent any more **Trainees** from joining. This can be done by typing **:slock** in the command bar or using /e in front of the command in the chat bar.
+The Host should be joining the server by **:45** and prepare for the training session, which includes lining up and checking that everything is in order.
 
-The **Host** must announce the prompts below using the **:sm** command. If using the command bar, remove the prefix. It's crucial to promptly send the next announcement after one closes. When using the chat, make sure to use /e before the command.
+Trainers should be joining the server by **:50** and lining up on the line behind the Host line.
 
-*Welcome to this Freshify Training Session! I'm (username), your Host for today's session. Pleasure meeting all of you. If it's your first time, a warm welcome, and if you've been here before, welcome back!*
+At **:55**, make sure to unlock the server by saying `:unslock`. Once trainees start to join, you can use the `:welcome` command to show the welcome messages. You can repeat this command a few times, but do not overuse it.
 
-Replace "(username)" with your Roblox username.
+If you encounter any problems during the session, please create a ticket and describe the issue clearly.
 
-*The training procedures and information will be presented now. Please avoid talking or distracting others. Engaging in conversation or causing disruptions may result in your removal from today's training.*
+## Host: Starting Script & Information 
+{: .text-blue-100 }
 
-**During the training procedures, Trainers can now proceed to their assigned group for training trainees.** Trainers using the command **:pm %trainer message**. Remember to keep this command hidden by using /e in front of it.
+**At the start of the training, the Host must lock the server by typing :slock in the command bar or /e :slock in the chat bar.** This will prevent any late Trainees from joining.
 
-Next, execute the **:traininginfo** command to automatically provide the training procedures and relevant information.
+**The Host must use the :sm command to announce the prompts below in *italic*.** If using the command bar, remove the prefix. It is important to send the next announcement quickly after the previous one closes. **If using the chat, use the command with /e in the front.**
 
-Upon the conclusion of the training information and procedure messages, please convey the following and commence teleporting Trainees to their designated groups.
+*Welcome to this Freshify Training Session! My name is (username) and I am your Host for today. It’s great to meet you all. Whether you are new or returning, I hope you enjoy this session.*
 
-*sm You will now be teleported into your assigned group, so please be patient. Trainees are NOT permitted to wander around once teleported.*
+**Replace "(username)" with your Roblox username.**
 
-## Trainer Script
+*Please pay attention to the training instructions and information that will be shown shortly. Do not chat or distract others during the training instructions. If you are caught being disruptive or disrespectful, you will be removed from the server.*
+
+Now, use the `:traininginfo` command to display the training procedures and important information automatically.
+
+**Trainers can now move to their assigned group to train the trainees during the training instructions.** The Host can use the command `:pm %trainer message` to send a private message to the trainers. **Make sure to hide this command by using /e before it.**
+
+**After the training information and procedure messages are done, please say the following and start teleporting Trainees to their respective groups.**
+
+*You will be moved to your assigned group shortly, so please wait. Trainees are NOT allowed to roam around after being teleported.*
+
+## Trainer: Starting Script
 {: .text-red-300 }
 
 When trainees are teleported, start with the script below. **Take your time and don't rush**. If a trainee has a question, let them know to wait until you finish the introduction.
 
-*Hello and welcome to the Freshify Training Session! I'm your trainer, username. Please pick a register and wait for further instructions before doing anything.*
+*Welcome to the Freshify Training Session! I’m username, your trainer for today. Please choose a register and wait for my instructions before doing anything else.*
 
 Replace **username** with your Roblox username.
 
-*As mentioned earlier, you'll need to take a quiz at the end of this session. Feel free to use the !notepad command to jot down notes – they'll come in handy during the quiz.*
+*You will have to take a quiz at the end of this session. You can use the !notepad command to write down notes that will help you with the quiz.*
 
-*Let me know before you go AFK. If you don't, you will be removed from the server. You can go AFK for up to 2 minutes, and you're allowed to go AFK twice during this training.*
+*Please tell me if you need to go AFK. Otherwise, you will be removed from the server. You can go AFK for up to 2 minutes, and you can do it twice during this training.*
 
-*If you get disconnected, you've got 90 seconds to rejoin. If you don't make it in time, you'll need to attend another training session.*
+*If you get disconnected, you have 90 seconds to rejoin. If you miss the time, you will have to attend another training session.*
 
-*If I disconnect, please wait for me and don't wander around. If I don't come back, someone else will take over.*
+*If I get disconnected, please stay where you are and don’t move around. If I don’t come back, someone else will continue the training.*
 
-*Do you have any questions? If yes, feel free to ask now. If not, jump to let me know that you're ready to begin.*
+*Do you have any questions? If you do, please ask them now. If you don’t, please jump to show me that you’re ready to start.*
 
-## Trainer Script: Voiding Transactions and Items
+If the trainee(s) have any questions, you must answer them. If they don’t, you can continue.
+
+If someone is AFK without telling you, remind them to come back. If they don’t reply, you can remove them from the server with the reason: **Failed**.
+
+## Trainer: Introduction to Cafe Register Script
 {: .text-red-300 }
 
-*We're kicking off the training with the Voiding test. Pay full attention, as it will be beneficial for you in the end.*
+*The cafe at Freshify offers drinks and treats for customers to enjoy. To work in the cafe, you need to learn how to make drinks and operate the register.*
+
+*You can scan the **[JSM] Operator Barcode** on the register to login now. Please wait for me to explain how our system works before you touch anything else.*
+
+*To scan an item, you just need to bring it to the register and it will scan it automatically.*
+
+*If the item disappears from your inventory, it means that it has been scanned by the register.*
+
+*To check, look at the top of the screen to see all the items that have been scanned.*
+
+*If you need to remove an item, click the X next to the item on the top right or click Clear Order to cancel all the items that have been scanned.*
+
+*If you cancel the items accidentally, you have to make the drink again and scan it. This goes same for an item.*
+
+*To let the customer pay, click the Finish Transaction button. Then, ask the customer to tap on the Pin Pad to get their item(s).*
+
+*The customer will receive the items that you scanned automatically after they pay.*
+
+*Now that you have learned the basics of the register, let’s move on to the ordering section.*
+
+*You will have to make the items that I order and scan them at the register. Then, you will let me pay for them.*
+
+*You will have to make the items that I order and scan them at the register. Then, you will let me pay for them.*
+
+Visit each trainee’s register one by one and order a simple drink item. If they make a mistake, they will not be penalized as they have to take a quiz at the end of the training.
+
+*Well done, everyone! Let’s go to the Checkout Area next. Please follow me.*
+
+## Trainer: Voiding Transactions and Items Script
+{: .text-red-300 }
+
+*We're kicking off the training with the Voiding test. Please choose a register. Pay full attention, as it will be beneficial for you in the end.*
 
 *Freshify features self-checkout systems that simulate a real-life shopping experience. These checkouts work just like actual checkout systems you encounter in real life.*
 
@@ -149,7 +166,7 @@ Replace **username** with your Roblox username.
 
 *Congratulations! We will now be doing the Item Approval test.*
 
-## Trainer Script: Item Approval
+## Trainer: Item Approval
 {: .text-red-300 }
 
 *Now, we'll proceed with the Item Approval test. Please pay full attention.*
@@ -170,7 +187,7 @@ Replace **username** with your Roblox username.
 
 *Congratulations! We will now be doing the Quiz.*
 
-## Trainer Script: Quiz
+## Trainer: Quiz
 {: .text-red-300 }
 
 *I will provide you with 3 questions. To pass this training session, you must answer at least two out of three correctly. Feel free to use the notes you took to assist you.*
