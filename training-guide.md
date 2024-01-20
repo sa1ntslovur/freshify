@@ -135,9 +135,7 @@ If someone is AFK without telling you, remind them to come back. If they don’t
 
 *You will have to make the items that I order and scan them at the register. Then, you will let me pay for them.*
 
-*You will have to make the items that I order and scan them at the register. Then, you will let me pay for them.*
-
-Visit each trainee’s register one by one and order a simple drink item. If they make a mistake, they will not be penalized as they have to take a quiz at the end of the training.
+**Visit each trainee’s register one by one and order a simple drink item. If they make a mistake, they will not be penalized as they have to take a quiz at the end of the training.**
 
 *Well done, everyone! Let’s go to the Checkout Area next. Please follow me.*
 
