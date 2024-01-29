@@ -27,14 +27,7 @@ The invite to our Discord server is: https://discord.gg/freshify. Alternatively,
 ## Is Freshify currently hiring Developers?
 {: .text-blue-100 }
 
-Yes, Freshify is actively seeking developers.
+No.
 
-## What are the requirements for applying as a Developer at Freshify?
-{: .text-blue-100 }
 
-Candidates should possess experience in building, modeling, or scripting. Demonstrable work created by the applicant is required. Submission of work not personally created will result in demotion and staff blacklisting.
 
-## How can I apply to become a Developer?
-{: .text-blue-100 }
-
-To submit your application, reach out to **tormewnt** on Discord, or alternatively, join our [Discord server](https://discord.gg/freshify) and open a support ticket.
