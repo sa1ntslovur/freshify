@@ -20,7 +20,7 @@ Here is the admin guide.
 ### Admin Information
 {: .text-blue-100 }
 
-Freshify utilizes Adonis and Basic Admin Essentials for the management of administrative systems within our games and additional security measures. Abusing administrator permissions in our games is hard, thanks to the implementation of logs and anti-abuse systems in place.
+Freshify employs Adonis and Basic Admin Essentials to manage administrative functions within our games. These systems, along with additional security measures, logging, and anti-abuse protocols, make it difficult to misuse administrator permissions.
 
 ### Admin Information: Ranks
 {: .text-blue-100 }
@@ -35,12 +35,13 @@ Freshify utilizes Adonis and Basic Admin Essentials for the management of admini
 | Store Administrator | Super Admin |
 | Head Administrator | Super Admin |
 | Contractor | Creator Admin |
+| Chief Development Officer | Creator Admin |
 | Vice President | Creator Admin |
 | President | Creator Admin |
 | Chief Operations Officer | Creator Admin |
 | Chief Executive Officer | Creator Admin |
 
-Commands are restricted based on their assigned admin level. For instance, individuals holding the ranks of Moderator or Administrator are not authorized to use the :pban command. However, those with Super Admin and above are authorized to use the :pban command. 
+Command access depends on a user's assigned admin level. For example, Moderators and Administrators cannot use the :pban command, while Super Admins and higher ranks have the necessary permissions.
 
 ### Hiding Commands
 {: .text-blue-100 }

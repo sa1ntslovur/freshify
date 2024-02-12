@@ -12,22 +12,24 @@ Here are the frequently asked questions answered.
 ## When is the Freshify Supermarket opening?
 {: .text-blue-100 }
 
-While we don't have a specific date to share just yet, our team is hard at work to complete the store. For the latest updates and information, please stay tuned by joining our [Discord](https://discord.gg/freshify) server.
+We're excited to open the Freshify Supermarket soon! While we don't have an exact date, we're working hard to get everything ready. For the most up-to-date information, join our Discord server (https://discord.gg/8PYF7MUBNr). We'll announce the grand opening there.
 
 ## Is the Training Center open?
 {: .text-blue-100 }
 
-Yes, the Training Center is accessible only during scheduled sessions. Outside of these sessions, the server won't allow you to join.
+Yes, the Training Center is open during scheduled sessions. To stay informed about upcoming sessions and when you can access the training center, please join our Discord server (https://discord.gg/8PYF7MUBNr).
 
 ## What is the Discord server invite?
 {: .text-blue-100 }
 
-The invite to our Discord server is: https://discord.gg/freshify. Alternatively, you can click on "Discord Server" at the top near the search bar.
+You can join our Discord server here: https://discord.gg/8PYF7MUBNr. You can also find the "Discord Server" button near the top search bar.
 
 ## Is Freshify currently hiring Developers?
 {: .text-blue-100 }
 
-No.
+Yes, we're actively looking for talented developers to join the Freshify team! To apply, please join our communications server and open a ticket.
+
+
 
 
 

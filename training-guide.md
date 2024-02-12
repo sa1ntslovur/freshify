@@ -18,18 +18,18 @@ permalink: /training-guide
 ## Information
 {: .text-yellow-300 }
 
-* This guide is for **Store Supervisors and above** who want to conduct training sessions for trainees.
-* The *italic* text shows the specific content that you should say to the trainees during the training sessions.
-* The **rest of the text is information** for you and other training staff.
+* This guide is designed to help **Store Supervisors and above** conduct effective training for new trainees.
+* *Instructions for Trainers* are written in regular text.
+* *Direct Speech* to be used with trainees is marked in *italics*.
 
 ## Information: Training Expectations & Behavior
 {: .text-yellow-300 }
 
-* All staff participating in the training should stand behind the assigned Host line. Trainees are expected to stand on the marked Red lines.
+* All staff participating in the training should stand on the assigned Training Staff line. Trainees are expected to sit at a table.
 * PTS requests will be answered until :55. After that time, trainees should direct any questions to their assigned trainer.
 * Trainees are strongly advised not to enter the Training Area independently. Only Trainers have the authority to transfer trainees to the Self Checkout room when necessary.
 * Training staff must hide their commands by using the command bar or typing /e in front of commands followed by pressing enter, and then sending commands there. It’s important to note that commands in the command bar do not require a prefix.
-* Trainees are required to be on the marked Red lines and comply with all specified regulations.
+* Trainees are required to be sitting and comply with all specified regulations.
 * Starting at :55, trainees should maintain silence and avoid interrupting other trainees or talking.
 * Any instances of trainees spamming or not listening, they will be removed from the server.
 
