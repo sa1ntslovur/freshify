@@ -19,8 +19,8 @@ permalink: /training-guide
 {: .text-yellow-300 }
 
 * This guide is designed to help **Store Supervisors and above** conduct effective training for new trainees.
-* *Instructions for Trainers* are written in regular text.
-* *Direct Speech* to be used with trainees is marked in *italics*.
+* **Instructions for Trainers** are written in regular text.
+* **Direct Speech** to be used with trainees is marked in *italics*.
 
 ## Information: Training Expectations & Behavior
 {: .text-yellow-300 }
