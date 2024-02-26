@@ -32,6 +32,7 @@ Outlined in the table below are the consequences for violating regulations withi
 | Encouragement of Suicide/Self-Harm  | Permanent ban | Roblox/Discord |
 | Encouragement to harm others | Permanent ban | Roblox/Discord |
 
+#### Suicide Prevention & Resources
 If you are experiencing suicidal thoughts or considering self-harm, please utilize the resources provided below. It's important to note that Freshify staff are not mental health professionals.
 
 * **Contact 988 or reach out to the suicide hotline in your country**.
