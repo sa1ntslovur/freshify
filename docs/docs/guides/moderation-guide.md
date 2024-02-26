@@ -11,6 +11,8 @@ parent: Guides
 Freshify prioritizes a welcoming and secure environment by implementing moderation measures across both our Discord server and games. Adherence to Freshify guidelines is mandatory for everyone.
 
 ## Punishments
+{: .text-blue-100 }
+
 Outlined in the table below are the consequences for violating regulations within Freshify.
 
 | Action       | Consequence      | Platform |
