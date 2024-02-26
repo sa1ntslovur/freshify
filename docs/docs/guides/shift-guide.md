@@ -1,10 +1,9 @@
 ---
 layout: default
 title: Shift Guide
-nav_order: 3
+nav_order: 2
 description: "Freshify Shift Guide"
 permalink: /shift-guide
-has_children: true
 ---
 
 # Shift Guide

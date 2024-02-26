@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Admin Guide
-nav_order: 5
+nav_order: 3
 description: "Freshify Admin Guide"
 permalink: /admin-guide
 ---
