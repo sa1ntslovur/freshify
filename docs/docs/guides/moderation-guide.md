@@ -17,7 +17,6 @@ Outlined in the table below are the consequences for violating regulations withi
 |:-------------|:------------------|:---------|
 | Exploiting   | Permanent ban     | Roblox   |
 | Glitching | Server ban  | Roblox |
-| Inappropriate discussions | Roblox/Discord  |
 | Failure to follow orders  | Server ban | Roblox/Discord |
 | Spamming  | Server ban | Roblox/Discord |
 | Harassment  | Server ban | Roblox/Discord |
