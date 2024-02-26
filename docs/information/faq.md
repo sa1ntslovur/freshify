@@ -4,6 +4,7 @@ title: Frequently Asked Questions
 nav_order: 3
 description: "Freshify Frequently Asked Questions"
 permalink: /faq
+parent: Information
 ---
 
 # Frequently Asked Questions
