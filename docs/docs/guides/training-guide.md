@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Training Guide
-nav_order: 4
+nav_order: 3
 description: "Freshify Training Guide"
 permalink: /training-guide
 parent: Guides
