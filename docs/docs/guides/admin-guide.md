@@ -4,6 +4,7 @@ title: Admin Guide
 nav_order: 3
 description: "Freshify Admin Guide"
 permalink: /admin-guide
+parent: Guides
 ---
 
 # Admin Guide

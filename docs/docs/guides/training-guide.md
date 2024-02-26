@@ -4,6 +4,7 @@ title: Training Guide
 nav_order: 4
 description: "Freshify Training Guide"
 permalink: /training-guide
+parent: Guides
 ---
 
 # Training Guide
