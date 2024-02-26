@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Frequently Asked Questions
-nav_order: 2
+nav_order: 3
 description: "Freshify Frequently Asked Questions"
 permalink: /faq
 ---
