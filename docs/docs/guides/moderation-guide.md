@@ -31,12 +31,10 @@ Outlined in the table below are the consequences for violating regulations withi
 | Threats of any kind               | Permanent ban                              |
 | Exploiting                              | Permanent ban                              |
 | Impersonation                      | Permanent ban                              |
-| Cheating/hacking                   | Permanent ban                              |
 | Sharing inappropriate content | Warning / Temporary ban              |
 | Disruptive behavior                 | Mute / Temporary ban                    |
 | Account phishing/scamming   | Permanent ban                              |
 | Solicitation                             | Warning / Temporary ban              |
-| Exploiting game mechanics   | Warning / Temporary ban              |
 | Sharing personal information | Warning / Temporary ban           |
 | Creating inappropriate username | Username change / Warning     |
 | Impersonating staff members  | Permanent ban                              |
