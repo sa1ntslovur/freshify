@@ -15,24 +15,31 @@ Freshify prioritizes a welcoming and secure environment by implementing moderati
 
 Outlined in the table below are the consequences for violating regulations within Freshify.
 
-| Action       | Consequence      | Platform |
-|:-------------|:------------------|:---------|
-| Exploiting   | Permanent ban     | Roblox   |
-| Glitching | Server ban  | Roblox |
-| Failure to follow orders  | Server ban | Roblox/Discord |
-| Spamming  | Server ban | Roblox/Discord |
-| Harassment  | Server ban | Roblox/Discord |
-| Disrespect towards others  | Server ban | Roblox/Discord |
-| Failure to follow orders  | Server ban | Roblox/Discord |
-| Inciting a raid  | Server ban | Roblox/Discord |
-| Advertisement  | Server ban/Discord server permanent ban | Roblox/Discord |
-| Alternative account of a blacklisted user  | Permanent ban | Roblox/Discord |
-| Discrimination  | Permanent ban | Roblox/Discord |
-| Impersonation  | Permanent ban | Roblox/Discord |
-| Threats of any kind  | Permanent ban | Roblox/Discord |
-| Offensive language  | Permanent ban | Roblox/Discord |
-| Encouragement of Suicide/Self-Harm  | Permanent ban | Roblox/Discord |
-| Encouragement to harm others | Permanent ban | Roblox/Discord |
+| Action                                    | Consequence                                   |
+|:--------------------------------------|:------------------------------------------|
+| Advertisement                      | Server ban / Discord server permanent ban |
+| Alternative account of a blacklisted user | Permanent ban                              |
+| Discrimination                      | Permanent ban                              |
+| Encouragement of Suicide/Self-Harm | Permanent ban                              |
+| Encouragement to harm others         | Permanent ban                              |
+| Failure to follow orders          | Server ban                                   |
+| Glitching                                 | Server ban                                   |
+| Harassment                            | Server ban                                   |
+| Inciting a raid                         | Server ban                                   |
+| Spamming                             | Server ban                                   |
+| Offensive language               | Permanent ban                              |
+| Threats of any kind               | Permanent ban                              |
+| Exploiting                              | Permanent ban                              |
+| Impersonation                      | Permanent ban                              |
+| Cheating/hacking                   | Permanent ban                              |
+| Sharing inappropriate content | Warning / Temporary ban              |
+| Disruptive behavior                 | Mute / Temporary ban                    |
+| Account phishing/scamming   | Permanent ban                              |
+| Solicitation                             | Warning / Temporary ban              |
+| Exploiting game mechanics   | Warning / Temporary ban              |
+| Sharing personal information | Warning / Temporary ban           |
+| Creating inappropriate username | Username change / Warning     |
+| Impersonating staff members  | Permanent ban                              |
 
 #### Suicide Prevention & Resources
 If you are experiencing suicidal thoughts or considering self-harm, please utilize the resources provided below. It's important to note that Freshify staff are not mental health professionals.
