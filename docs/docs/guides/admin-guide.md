@@ -21,7 +21,7 @@ Here is the admin guide.
 ### Admin Information
 {: .text-blue-100 }
 
-Freshify employs Adonis and Basic Admin Essentials to manage administrative functions within our games. These systems, along with additional security measures, logging, and anti-abuse protocols, make it difficult to misuse administrator permissions.
+Freshify employs Basic Admin Essentials to manage administrative functions within our games. These systems, along with additional security measures, logging, and anti-abuse protocols, make it difficult to misuse administrator permissions.
 
 ### Admin Information: Ranks
 {: .text-blue-100 }
