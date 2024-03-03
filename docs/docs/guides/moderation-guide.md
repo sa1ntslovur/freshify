@@ -44,9 +44,4 @@ If you are experiencing suicidal thoughts or considering self-harm, please utili
 
 * **Contact 988 or reach out to the suicide hotline in your country**.
 * **Seek immediate assistance by going to your nearest Emergency Department or Hospital**.
-    * Since Freshify operates within the Great Plains region, individuals should seek assistance from Monument Health if a provider or location is specified in their area. For additional details, please contact 988.
-
-{: .warning }
-**ALL CONCERNS ABOUT SUICIDE REQUIRE IMMEDIATE ATTENTION.**
-All statements about suicide need to be taken seriously and are a reason to immediately alert a health care provider or seek emergency help.
 
