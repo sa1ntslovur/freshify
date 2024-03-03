@@ -22,7 +22,7 @@ We are diligently working on updating our Training Guide. Your patience is great
 ## Information
 {: .text-yellow-300 }
 
-* This guide is designed to help **Store Supervisors and above** conduct effective training for new trainees.
+* This guide is designed to help **Assistant Store Managers and above** conduct effective training for new trainees.
 * **Instructions for Trainers** are written in regular text.
 * **Direct Speech** to be used with trainees is marked in *italics*.
 
@@ -50,8 +50,8 @@ The following section provides details about the various roles in a Freshify tra
 | Role        | Description          | Ranks Allowed | Quantity |
 |:------------|:--------------------|:--------------|:---------|
 | Host        | The Host bears complete responsibility for the entire training session. Their role commences at :40, as they join and unlock the server by :45. Possessing full authority over the training session, the Host exercises the ultimate decision-making power, except when overruled by an SHR. Their duties encompass presenting the introduction to the trainees, ensuring the trainers can effectively instruct the trainees, overseeing the session, and managing additional responsibilities. | Store Manager+  | 1 allowed **per** session | 
-| Trainer | The Trainer holds the responsibility of instructing trainees on Freshify's systems, encompassing practical assessments across different areas, such as store departments, as outlined in the guide.   | Store Supervisor+  | 6 allowed **per** session |
-| Spectator    | The Spectator will oversee the training session to ensure its smooth and efficient operation.  | Store Moderator+  | No maximum |
+| Trainer | The Trainer holds the responsibility of instructing trainees on Freshify's systems, encompassing practical assessments across different areas, such as store departments, as outlined in the guide.   | Assistant Store Manager+  | 6 allowed **per** session |
+| Spectator    | The Spectator will oversee the training session to ensure its smooth and efficient operation.  | Corporate Intern+  | No maximum |
 | Trainee          | Trainees and Low Ranks are accountable for attentively listening to trainers, adhering to Freshify regulations, and actively participating in the training session. | Awaiting Training, Team Member, Junior Team Member, and Senior Team Member  | No maximum 
 
 ## Role Information: Additional Information
