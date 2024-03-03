@@ -28,15 +28,16 @@ Freshify employs Adonis and Basic Admin Essentials to manage administrative func
 
 | Rank        | Admin Level         |
 |:------------|:--------------------|
-| Store Supervisor | Moderator | 
 | Assistant Store Manager | Moderator |
 | Store Manager | Administrator | 
 | Operations Manager | Administrator | 
-| Store Moderator | Super Admin |
-| Store Administrator | Super Admin |
-| Head Administrator | Super Admin |
+| Corporate Intern | Super Admin |
+| Junior Corporate | Super Admin |
+| Senior Corporate | Super Admin |
+| Lead Corporate | Super Admin |
 | Contractor | Creator Admin |
 | Chief Development Officer | Creator Admin |
+| Presidential Executive | Creator Admin |
 | Vice President | Creator Admin |
 | President | Creator Admin |
 | Chief Operations Officer | Creator Admin |
