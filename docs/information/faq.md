@@ -8,7 +8,6 @@ parent: Information
 ---
 
 # Frequently Asked Questions
-{: .text-blue-100 }
 
 Here are the frequently asked questions answered.
 
