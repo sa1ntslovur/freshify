@@ -19,6 +19,9 @@ parent: Guides
 {: .warning }
 We are diligently working on updating our Training Guide. Your patience is greatly appreciated.
 
+{: .warning }
+Store Supervisors are no longer authorized to conduct training. Only Assistant Store Managers and higher ranks are permitted to train.
+
 ## Information
 {: .text-yellow-300 }
 
