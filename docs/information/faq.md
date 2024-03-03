@@ -46,7 +46,7 @@ In light of Freshify's recent opening, this measure has been implemented to safe
 
 Only Assistant Store Managers and higher-ranking personnel are authorized to supervise both the store and its departments.
 
-#### Is there a maximum number of Assistant Store Managers or higher-ranking personnel allowed to supervise a department?
+### Is there a maximum number of Assistant Store Managers or higher-ranking personnel allowed to supervise a department?
 {: .text-blue-100 }
 
 Yes, a department can have a maximum of two Assistant Store Managers or higher-ranking personnel overseeing.
