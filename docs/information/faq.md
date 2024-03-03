@@ -14,7 +14,7 @@ Here are the frequently asked questions answered.
 ## Is Freshify Supermarket opening?
 {: .text-blue-100 }
 
-The Freshify Supermarket is now open! Join us at: [Freshify Supermarket](https://www.roblox.com/games/16105101085/SHOP-Freshify-Supermarket)
+The Freshify Supermarket is now open! Join us at: [Freshify Supermarket](https://www.roblox.com/games/16105101085/SHOP-Freshify-Supermarket).
 
 ## Is the Training Center open?
 {: .text-blue-100 }
