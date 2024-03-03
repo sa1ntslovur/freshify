@@ -10,8 +10,6 @@ parent: Guides
 # Shift Guide
 {: .no_toc }
 
-{: .note-title }
-> Notice
->
-> We are diligently working on updating our Shift Guide. Your patience is greatly appreciated.
+{: .warning }
+We are diligently working on updating our Shift Guide. Your patience is greatly appreciated.
 

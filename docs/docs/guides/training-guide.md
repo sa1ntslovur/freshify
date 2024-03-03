@@ -16,6 +16,9 @@ parent: Guides
 1. TOC
 {:toc}
 
+{: .warning }
+We are diligently working on updating our Training Guide. Your patience is greatly appreciated.
+
 ## Information
 {: .text-yellow-300 }
 
