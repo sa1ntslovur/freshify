@@ -44,6 +44,7 @@ If you are experiencing suicidal thoughts or considering self-harm, please utili
 
 * **Contact 988 or reach out to the suicide hotline in your country**.
 * **Seek immediate assistance by going to your nearest Emergency Department or Hospital**.
+    * As Freshify is a South Dakota based company, you would go to Monument Health.
 
 {: .warning }
 **ALL CONCERNS ABOUT SUICIDE REQUIRE IMMEDIATE ATTENTION.**
