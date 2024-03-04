@@ -59,7 +59,7 @@ A shift at our store is an opportunity for Assistant Store Managers to host one,
 ### What is a cooldown?
 {: .text-blue-100 }
 
-A cooldown period serves to prevent staff from receiving promotions too frequently. For instance, if a staff member was recently promoted in a previous session, they must wait until their cooldown period ends before they can be considered for another promotion in another shift.
+A cooldown period serves to prevent staff from receiving promotions too frequently. For instance, if a staff member was recently promoted in a previous session, they must wait until their cooldown period ends before they can be considered for another promotion in a shift.
 
 
 
