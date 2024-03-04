@@ -51,6 +51,14 @@ Only Assistant Store Managers and higher-ranking personnel are authorized to sup
 
 Yes, a department can have a maximum of two Assistant Store Managers or higher-ranking personnel overseeing.
 
+### What is a shift?
+{: .text-blue-100 }
+
+A shift at our store is an opportunity for Assistant Store Managers to host one, during which Team Leaders can potentially receive a promotion provided they don't have an ongoing cooldown period.
+
+### What is a cooldown?
+{: .text-blue-100 }
+A cooldown period serves to prevent staff from receiving promotions too frequently. For instance, if a staff member was recently promoted in a previous session, they must wait until their cooldown period ends before they can be considered for another promotion in another shift.
 
 
 
