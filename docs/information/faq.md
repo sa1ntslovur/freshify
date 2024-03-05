@@ -56,10 +56,23 @@ Yes, a department can have a maximum of two Assistant Store Managers or higher-r
 
 A shift at our store is an opportunity for Assistant Store Managers to host one, during which Team Leaders can potentially receive a promotion provided they don't have an ongoing cooldown period.
 
+### What is a training?
+{: .text-blue-100 }
+
+A training session is a vital step for Trainees who have applied at our application center. It provides them with an opportunity to familiarize themselves with our systems and procedures, enabling them to qualify for promotion and begin working at the store!
+
+### Is it required that a Trainee attends a training session prior to working?
+{: .text-blue-100 }
+
+Yes, attendance at a training session is mandatory for Trainees before they can begin working.
+
 ### What is a cooldown?
 {: .text-blue-100 }
 
 A cooldown period serves to prevent staff from receiving promotions too frequently. For instance, if a staff member was recently promoted in a previous session, they must wait until their cooldown period ends before they can be considered for another promotion in a shift.
 
+### If someone resigns, are they allowed to reclaim their rank and come back?
+{: .text-blue-100 }
 
+No, once an individual resigns, they cannot reclaim their previous rank and return.
 
