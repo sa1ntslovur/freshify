@@ -11,6 +11,8 @@ description: "Welcome to Freshify Support"
 Freshify is a dedicated Roblox retail organization, now more committed than ever to serving the community.
 {: .fs-6 .fw-300 }
 
+[Learn how we power innovation](https://support.freshifynet.com){: .btn .btn-blue }
+
 ---
 
 ## Welcome to Freshify Support
