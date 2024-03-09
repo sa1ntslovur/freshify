@@ -26,11 +26,6 @@ Yes, the Training Center is open during scheduled sessions. Stay updated on upco
 
 Join our vibrant community on Discord: [Freshify Discord](https://discord.gg/freshify). Look out for the "Discord Server" button near the top search bar for quick access.
 
-### Is Freshify looking for Developers or Corporate?
-{: .text-blue-100 }
-
-Currently, Freshify is not hiring for Developers or Corporate positions.
-
 ### Can Store Supervisors supervise and issue bans for rule violations?
 {: .text-blue-100 }
 
