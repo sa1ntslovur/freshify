@@ -17,7 +17,7 @@ Outlined in the table below are the consequences for violating regulations withi
 
 | Action                                    | Consequence                                   |
 |:--------------------------------------|:------------------------------------------|
-| Advertisement                      | Server ban / Discord server permanent ban |
+| Advertisement                      | Permanent ban |
 | Alternative account of a blacklisted user | Permanent ban                              |
 | Discrimination                      | Permanent ban                              |
 | Encouragement of Suicide/Self-Harm | Permanent ban                              |
@@ -25,18 +25,18 @@ Outlined in the table below are the consequences for violating regulations withi
 | Failure to follow orders          | Server ban                                   |
 | Glitching                                 | Server ban                                   |
 | Harassment                            | Server ban                                   |
-| Inciting a raid                         | Server ban                                   |
+| Inciting a raid                         | Permanent ban                                   |
+| Participating in a raid | Permanent ban |
 | Spamming                             | Server ban                                   |
 | Offensive language               | Permanent ban                              |
 | Threats of any kind               | Permanent ban                              |
 | Exploiting                              | Permanent ban                              |
 | Impersonation                      | Permanent ban                              |
-| Sharing inappropriate content | Warning / Temporary ban              |
-| Disruptive behavior                 | Mute / Temporary ban                    |
+| Sharing inappropriate content | Permanent ban             |
+| Disruptive behavior  | Server ban or permanent ban                  |
 | Account phishing/scamming   | Permanent ban                              |
-| Solicitation                             | Warning / Temporary ban              |
-| Sharing personal information | Warning / Temporary ban           |
-| Creating inappropriate username | Username change / Warning     |
+| Sharing personal information | Server ban           |
+| Having an inappropriate username |  Permanent ban   |
 | Impersonating staff members  | Permanent ban                              |
 
 #### Suicide Prevention & Resources
