@@ -10,7 +10,7 @@ parent: Guides
 # Moderation Guide
 Freshify prioritizes a welcoming and secure environment by implementing moderation measures across both our Discord server and games. Adherence to Freshify guidelines is mandatory for everyone.
 
-## Punishments
+## Discipline Matrix
 {: .text-blue-100 }
 
 Outlined in the table below are the consequences for violating regulations within Freshify.
@@ -38,10 +38,20 @@ Outlined in the table below are the consequences for violating regulations withi
 | Sharing personal information | Server ban           |
 | Having an inappropriate username |  Permanent ban   |
 | Impersonating staff members  | Permanent ban                              |
+| Trolling                     | Server ban                                        |
 
-#### Suicide Prevention & Resources
-If you are experiencing suicidal thoughts or considering self-harm, please utilize the resources provided below. It's important to note that Freshify staff are not mental health professionals.
 
-* **Contact 988 or reach out to the suicide hotline in your country**.
-* **Seek immediate assistance by going to your nearest Emergency Department or Hospital**.
+## Appeal
+{: .text-blue-100 }
+
+Any moderation actions can be appealed except for permanent bans. To appeal a permanent ban, Executive Management will need to grant permission for you to appeal.
+
+If a permanent ban is deemed unappealable, it means that you cannot request a review of your permanent ban.
+
+### How to Appeal
+{: .text-blue-100 }
+
+To appeal, please direct message an Executive Management member. We are currently developing a game where you can appeal your ban or moderation action.
+
+
 
