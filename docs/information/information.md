@@ -6,6 +6,6 @@ has_children: true
 ---
 
 # Information
-Freshify stands as a distinguished corporate supermarket, celebrated for its curated assortment of premium products that cater to everyone. Our steadfast dedication to providing unparalleled customer service ensures an unforgettable shopping journey for each visitor.
+Freshify is a distinguished corporate supermarket, renowned for its carefully curated selection of premium products catering to all. Our unwavering commitment to delivering exceptional customer service guarantees an unforgettable shopping experience for every visitor.
 
 Freshify is currently owned by **tormewnt** and operated by the leadership team.
