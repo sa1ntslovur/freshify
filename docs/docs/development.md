@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal
 title: Developer Onboarding
 nav_exclude: true
 description: "Freshify Developer Onboarding"
