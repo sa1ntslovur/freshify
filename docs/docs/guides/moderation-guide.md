@@ -52,6 +52,7 @@ If a permanent ban is deemed unappealable, it means that you cannot request a re
 {: .text-blue-100 }
 
 To appeal, please direct message an Executive Management member. We are currently developing a game where you can appeal your ban or moderation action.
+ 
 
 
 
